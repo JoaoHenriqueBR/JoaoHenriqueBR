@@ -2,9 +2,8 @@
 
 
 - 🌱 Atualmente aprendendo Python e C/C++ / Currently learning Python and C/C++.
-- 👯 Costumo acompanhar alguns projetos de código aberto. / I like to keep track of some open source projects.
 - 📚 Cursando o 3º Semestre da Faculdade em Análise e Desenvolvimento de Sistemas. / Studying in the 3rd Semester of the Faculty in Analysis and Development of Systems.
-- 🌌 Tenho interesse em novas tecnologias e oportunidades de aprender algo novo. / I'm interested in new technologies and opportunities of learning something new.
+- 🌌 Tenho interesse em novas tecnologias e oportunidades de aprender algo novo. / I have interest in new technologies and opportunities of learning something new.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
