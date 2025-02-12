@@ -1,7 +1,7 @@
 ## Olá, sou o João Henrique! / Hi there, I'm João Henrique! 👋
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas. / Studying Analysis and Development of Systems.
-- 🌱 Atualmente aprendendo Python, React e Java. / Currently learning Python, React and Java.
+- 🌱 Atualmente aprendendo Python, SQL e Java. / Currently learning Python, SQL and Java.
 - 🌌 Interesse em Backend, Sistemas Operacionais e Cibersegurança. / Interest in Backend, Operating Systems and Cybersecurity.
 
 ### Minhas Redes / My Social Networks
@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bootstrapt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
