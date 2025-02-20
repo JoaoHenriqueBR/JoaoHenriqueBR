@@ -2,7 +2,7 @@
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas. / Studying Analysis and Development of Systems.
 - 🌱 Atualmente aprendendo Python, SQL e Java. / Currently learning Python, SQL and Java.
-- 🌌 Interesse em Backend, Sistemas Operacionais e Cibersegurança. / Interest in Backend, Operating Systems and Cybersecurity.
+- 🌌 Interessado em Backend, Sistemas Operacionais e Cibersegurança. / Interested in Backend, Operating Systems and Cybersecurity.
 
 ### Minhas Redes / My Social Networks
 
@@ -10,10 +10,11 @@
 [![DIO](https://img.shields.io/badge/Perfil%20DIO-00FFFF?style=for-the-badge)](https://www.dio.me/users/jh_evolution505)
 
 ### Tecnologias / Technologies
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Microsoft SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Bootstrapt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
