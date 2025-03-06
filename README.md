@@ -9,7 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joao-henrique-alves-ferreira-1024br)
 [![DIO](https://img.shields.io/badge/Perfil%20DIO-00FFFF?style=for-the-badge)](https://www.dio.me/users/jh_evolution505)
 
-### Tecnologias / Technologies
+## Tecnologias / Technologies
+
+
 
 <div style="display: inline_block">
   <h4> Main </h4>
