@@ -1,14 +1,5 @@
-## Boas vindas ao meu GitHub! 👋 (Welcome!)
+# Boas vindas ao meu GitHub! 👋 (Welcome!)
 
----------------------------------------------------------------------- 🇧🇷 ----------------------------------------------------------------------
-
-Construído com muito carinho (quase um filho), se perceber, a minha descrição é dividida em duas partes, a primeira em português e a segunda em Inglês, sinta-se livre para explorar e dar uma olhada nos meus projetos, qualquer ideia ou comentário são bem vindos, aproveitando, por que não dá uma conferida nas minhas Redes Socias? Estão logo abaixo, bora se conectar e compartilhar experiências.
-
----------------------------------------------------------------------- 🇺🇸 ----------------------------------------------------------------------
-
-Built with a lot of care (Almost a son), if you see, my description is divided in two parts, the first one in portuguese and the second in English, feel free to explore and give a look into my projects, any idea or feedback are welcome, about that, why don't you give a look into my Social Networks? They're right below, let's connect and share experiences together. 
-
----
 
 - 👨🏻‍🏫 Instrutor de Programação na CTRL+Play. / Programming Instructor in CTRL+Play.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas. / Studying Analysis and Development of Systems.
