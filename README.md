@@ -50,7 +50,3 @@
   <img align="center" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
-## GitHub Streak 🔥
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoHenriqueBR&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
