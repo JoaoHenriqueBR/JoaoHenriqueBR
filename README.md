@@ -8,16 +8,6 @@
 - 🌱 Atualmente aprendendo Python, SQL e Java. / Currently learning Python, SQL and Java.
 - 🌌 Interessado em Backend, Sistemas Operacionais e Cibersegurança. / Interested in Backend, Operating Systems and Cybersecurity.
 
-## Principais Repositórios
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHenriqueBR&repo=Aulas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoaoHenriqueBR/Aulas)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHenriqueBR&repo=TODO-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoaoHenriqueBR/TODO-Python)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kaiokor&repo=IonicAppEstudantil&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/kaiokor/IonicAppEstudantil)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHenriqueBR&repo=Auto-Maps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoaoHenriqueBR/Auto-Maps)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHenriqueBR&repo=Folheia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoaoHenriqueBR/Folheia)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoHenriqueBR&repo=DatabaseLAB&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JoaoHenriqueBR/DatabaseLAB)
-
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoHenriqueBR)
